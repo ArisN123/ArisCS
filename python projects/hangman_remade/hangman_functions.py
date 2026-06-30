@@ -48,7 +48,7 @@ def compare_chosen_letter_against_list(letter,revealed_letters,word_list):
         for x in range(0,5):
             if word_list[x] == letter:
                 revealed_letters[x] = letter
-                return(revealed_letters)
+        return(revealed_letters)
 
 def get_wrong_letters_list(inlist, letter,word):
     if letter not in word:
