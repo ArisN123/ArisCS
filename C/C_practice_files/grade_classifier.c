@@ -18,7 +18,7 @@
 int main(){
     
     int a;
-    
+
     int ar[7]= {95,85,75,65,55,105,-105};
 
     for (a = 0; a < 7; a++)
@@ -43,27 +43,6 @@ int main(){
     }
 
     }
-    
-
-    // if(100 >= ar[a] && ar[a] >= 90){
-    //     printf("%d is equivalent to grade A\n",ar[a]);
-    // }
-    // else if(89>= ar[a] && ar[a] > 80){
-    //     printf("%d is equivalent to grade B\n",ar[a]);
-    // }
-    // else if(79>= ar[a] && ar[a] > 70){
-    //     printf("%d is equivalent to grade C\n",ar[a]);
-    // }
-    // else if(69>= ar[a] && ar[a] > 60){
-    //     printf("%d is equivalent to grade D\n",ar[a]);
-    // }
-    // else if(59>= ar[a] && ar[a] >= 0){
-    //     printf("%d is equivalent to grade F\n",ar[a]);
-    // }
-    // else {
-    //      printf("Error, invalid value\n");
-    // }
-
     
 
 }
