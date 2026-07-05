@@ -1,0 +1,9 @@
+Errors:
+2: ERROR Missing file
+5: ERROR Failed again
+
+
+Total Lines: 5
+INFO: 2
+WARNING: 1
+ERROR: 2

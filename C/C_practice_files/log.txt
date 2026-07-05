@@ -1,0 +1,5 @@
+INFO Program started
+ERROR Missing file
+INFO Retrying
+WARNING Slow response
+ERROR Failed again
