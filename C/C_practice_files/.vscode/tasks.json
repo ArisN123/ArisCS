@@ -1,0 +1,18 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Build C file",
+      "type": "shell",
+      "command": "gcc",
+      "args": [
+        "-g",
+        "strings.c",
+        "-o",
+        "strings.exe"
+      ],
+      "group": "build",
+      "problemMatcher": ["$gcc"]
+    }
+  ]
+}
