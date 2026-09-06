@@ -8,7 +8,7 @@ path_x = "C:/Users/aris123/Desktop/RoadToSWE/random files i work with/bgc_a4_c_1
 
 new_pdf = Pdf.new()
 for n,page in enumerate(Pdf.open(path_x).pages):
-    if n < 56:
+    if n > 55 and n < 91:
         new_pdf.pages.append(page)
 
 
